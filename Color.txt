@@ -1,0 +1,5 @@
+Dark Blue: #1054A2
+
+Light Blue: #307CB
+
+White: #ffffff
