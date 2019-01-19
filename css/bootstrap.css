@@ -1,4 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Unna');
+@font-face {
+  font-family: 'Axis';
+  src: url('/css/axis.otf');
+}
 
 :root {
 --blue: lightblue;
